@@ -160,8 +160,3 @@ GitHub:
 
 https://github.com/Kanishka-Rajesh
 
----
-
-# ⭐ Support
-
-If you found this project helpful, consider giving it a ⭐ on GitHub!
