@@ -1,4 +1,4 @@
-# 🍽️ Restaurant Reservation System
+# Restaurant Reservation System
 
 <h3 align="center">
 A Modern Restaurant Reservation Management System built using Java, JavaFX, Spring Boot, Maven, and MySQL.
@@ -11,7 +11,7 @@ A Modern Restaurant Reservation Management System built using Java, JavaFX, Spri
 
 ---
 
-# 📖 Overview
+#  Overview
 
 The **Restaurant Reservation System** is a desktop application developed to simplify restaurant reservation and customer management.
 
@@ -21,35 +21,35 @@ The project demonstrates database connectivity, desktop application development,
 
 ---
 
-# ✨ Features
+#  Features
 
-### 🍴 Reservation Management
+###  Reservation Management
 
 - Create new reservations
 - Update reservation details
 - Cancel reservations
 - View reservation history
 
-### 👤 Customer Management
+###  Customer Management
 
 - Register customers
 - Update customer information
 - Search customers
 - Delete customer records
 
-### 🪑 Table Management
+###  Table Management
 
 - Table availability
 - Reservation status
 - Seat management
 
-### 🗄 Database Operations
+###  Database Operations
 
 - Store reservation data
 - Customer database management
 - SQL-based persistent storage
 
-### 💻 User Interface
+###  User Interface
 
 - JavaFX Desktop Application
 - Responsive Forms
@@ -70,7 +70,7 @@ The project demonstrates database connectivity, desktop application development,
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```
 RestaurantReservation
@@ -136,7 +136,7 @@ Run the application from your IDE or execute the generated application.
 
 ---
 
-# 🚀 Future Improvements
+#  Future Improvements
 
 - Email Notifications
 - QR Code Reservation
@@ -147,7 +147,7 @@ Run the application from your IDE or execute the generated application.
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 **Kanishka Rajesh**
 
