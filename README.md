@@ -58,7 +58,7 @@ The project demonstrates database connectivity, desktop application development,
 
 ---
 
-# 🛠 Tech Stack
+#  Tech Stack
 
 | Technology | Purpose |
 |------------|----------|
@@ -86,7 +86,7 @@ RestaurantReservation
 
 ---
 
-# ⚙️ Installation
+#  Installation
 
 ## Clone Repository
 
