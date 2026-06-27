@@ -6,11 +6,6 @@ A Modern Restaurant Reservation Management System built using Java, JavaFX, Spri
 
 <p align="center">
 
-![Java](https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=openjdk)
-![JavaFX](https://img.shields.io/badge/JavaFX-UI-blue?style=for-the-badge)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-Framework-brightgreen?style=for-the-badge&logo=springboot)
-![Maven](https://img.shields.io/badge/Maven-Build-red?style=for-the-badge&logo=apachemaven)
-![MySQL](https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql)
 
 </p>
 
