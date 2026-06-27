@@ -141,20 +141,6 @@ Run the application from your IDE or execute the generated application.
 
 ---
 
-# 📸 Screenshots
-
-> Add screenshots here after running the application.
-
-Example:
-
-- Login Screen
-- Dashboard
-- Reservation Form
-- Customer Management
-- Reservation List
-
----
-
 # 🚀 Future Improvements
 
 - Email Notifications
